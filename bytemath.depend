@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1660837754 source:f:\eng\embedded systems\tests\bytemath\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+
+1660836846 f:\eng\embedded systems\tests\bytemath\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1660837087 source:f:\eng\embedded systems\tests\bytemath\defintion.c
+	<stdio.h>
+	<stdlib.h>
+
+1660837087 source:f:\eng\embedded systems\tests\bit_math project\defintion.c
+	<stdio.h>
+	<stdlib.h>
+
