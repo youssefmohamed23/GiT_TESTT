@@ -8,6 +8,7 @@ int main() {
 while(1){
 char pin ;
 int b , n;
+printf("Hello World\n");
 printf("Enter operation first letter ,number and bit.\n");
 scanf(" %c%d%d" ,&pin , &n , &b  );
 if(pin == 's') printf("set of bit %d in %d = %d \n" ,b,n, set(b , n));
